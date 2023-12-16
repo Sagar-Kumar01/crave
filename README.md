@@ -1,4 +1,4 @@
-# ChatX - v1.0:
+# Crave - v1.0:
 
 - It is a simple, reliable, fun and creative social network service.
 - It is a valuable communication tool with others locally and worldwide, as well as to share, create, and spread information.
